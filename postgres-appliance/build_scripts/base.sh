@@ -93,6 +93,7 @@ for version in $DEB_PG_SUPPORTED_VERSIONS; do
                 "postgresql-${version}-pg-checksums"
                 "postgresql-${version}-pgl-ddl-deploy"
                 "postgresql-${version}-pgq-node"
+                "postgresql-${version}-pgrouting"
                 "postgresql-${version}-postgis-${POSTGIS_VERSION%.*}"
                 "postgresql-${version}-postgis-${POSTGIS_VERSION%.*}-scripts"
                 "postgresql-${version}-repack"
